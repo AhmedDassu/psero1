@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @psero
-- 👀 I’m interested in python
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on large projects
-- 📫 How to reach me ... dont.
+# I'm psero1
 
+I can code in python, but I don't know many libraries. 
+I love maths, and I find it really fun, which is why I do a lot of Project Euler
+I am learning Flutter
