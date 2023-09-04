@@ -32,3 +32,4 @@
 ##### [hahaah don't click this link, trust me its not worth it (not a rick roll though](https://gist.github.com/psero1/a0539aa80f7b26796ae0cf797a61aa05) 
 
 
+###### inspired by [Goldy](https://devgoldy.xyz/github/)
